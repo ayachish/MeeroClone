@@ -317,12 +317,12 @@ li {
     font-family: 'Poppins';
 }
 
-.footer__bottom div{
+.footer_bottom {
     display: flex;
     margin-top: 2rem;
     padding-top: 2rem;
     width: 100%;
-    
+    border-top: 1.5px solid #aeaeae;
 }
 
 .left-footer_bottom {
